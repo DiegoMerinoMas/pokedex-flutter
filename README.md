@@ -4,7 +4,10 @@ My personal flutter project
 
 ## Getting Started
 
-This project is a starting point for a Flutter application. @@text in purple@@
+This project is a starting point for a Flutter application. 
+```diff
+@@text in purple@@
+```
 
 A few resources to get you started if this is your first Flutter project:
 
